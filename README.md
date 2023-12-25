@@ -71,7 +71,7 @@ The code demonstrates the use of Tkinter for GUI development, Matplotlib for plo
 
 
 <h2 align="left"> <img src="https://github.com/urfavcrow23/QuizApp/blob/main/Images/dc6but6-a03d853d-502b-47e1-913f-55738c886211.gif?raw=true" width="20"> UI Overview </h2>
-<img src="https://github.com/urfavcrow23/QuizApp/blob/main/Images/mockup.png?raw=true" width="100%">
+<!-- <img src="https://github.com/urfavcrow23/QuizApp/blob/main/Images/mockup.png?raw=true" width="100%"> -->
 
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
