@@ -13,11 +13,12 @@ Upon clicking a button, it calculates and displays the points on the line using 
 Matplotlib is employed to create a plot of the line, and the coordinates are displayed in a graphical user interface.
 
 3. Shape Drawing Window:
-This window provides a GUI for drawing shapes such as lines, rectangles, and circles on a canvas.
-Users can select the type of shape they want to draw from a dropdown menu.
-The canvas displays a grid, and shapes are drawn based on user input.
-A Treeview widget is used to display a list of drawn shapes along with their coordinates.
-The GUI is responsive to mouse events, allowing users to draw shapes by clicking and dragging.
+This window allows users to draw various shapes (lines, rectangles, circles) on a canvas.
+Shapes are drawn based on user input and displayed on a grid.
+A dropdown menu enables users to select the type of shape they want to draw.
+A Treeview widget is used to show a list of drawn shapes along with their coordinates.
+The GUI is responsive to mouse events, facilitating the drawing of shapes through click and drag actions.
+
 
 4. Main Window:
 A main window with a customized loading animation is displayed before opening the splash screen.
@@ -32,47 +33,31 @@ After the loading animation, the splash screen is launched.
 
 <h2 align="left">  <img src="https://github.com/urfavcrow23/QuizApp/blob/main/Images/1_cGaTxrPGlA29Z9QcaRg-xA.gif?raw=true" width="30"> Features </h2>
 <h4 align="left">  <i> 
-  
-1. Splash Screen:
-At the start of the application, a splash screen is displayed with two options for the user.
-The options are presented as buttons, each leading to a different functionality.
 
-2. DDA Line Drawing Window:
-Users can input coordinates (X0, Y0) and (X1, Y1) for a line using an interactive GUI.
-The DDA algorithm is applied to calculate and display the points on the line.
-Matplotlib is utilized to create a plot of the line, which is embedded in the Tkinter window.
-
-3. Shape Drawing Window:
-This window allows users to draw various shapes (lines, rectangles, circles) on a canvas.
-Shapes are drawn based on user input and displayed on a grid.
-A dropdown menu enables users to select the type of shape they want to draw.
-A Treeview widget is used to show a list of drawn shapes along with their coordinates.
-The GUI is responsive to mouse events, facilitating the drawing of shapes through click and drag actions.
-
-4. Custom Loading Animation:
+1. Custom Loading Animation:
 A loading animation is displayed in the main window before opening the splash screen.
 The animation involves transitioning between two images, providing a visual indication of the loading process.
 
-5. GUI Customization:
+2. GUI Customization:
 The GUI is customized with a specific color scheme and font choices.
 The application window can be resized and has specific positions on the screen.
 
-6. Image Handling:
+3. Image Handling:
 Images are used for background and buttons in the GUI, loaded using the PhotoImage class from the Tkinter library.
 Image transitions are part of the loading animation.
 
-7. Responsive Design:
+4. Responsive Design:
 The GUI elements are positioned dynamically based on the screen size, making the application somewhat responsive.
 
-8. Code Structure:
+5. Code Structure:
 The code is organized into functions, each responsible for a specific window or functionality.
 Classes are used for encapsulating related functionality, such as the ShapeDrawer class.
 
-9. Integration of Libraries:
+6. Integration of Libraries:
 Tkinter is used for creating the GUI.
 Matplotlib is integrated for plotting graphs within the Tkinter window.
 
-10. Exit and Transition:
+7. Exit and Transition:
 The script ensures proper termination of windows using destroy() and mainloop() methods.
 There is a smooth transition from the main window to the splash screen.  
  </i> </h4>
