@@ -2,6 +2,7 @@
 
   <i> 
   <img src="https://github.com/urfavcrow23/QuizApp/blob/main/Images/eyes_1f440.gif?raw=true" width="19"> Is a Python script that utilizes the Tkinter library to create a graphical user interface (GUI) application for drawing shapes and displaying their coordinates using Matplotlib. The application consists of three main windows: a splash screen, a window for DDA Line Drawing, and a window for drawing various shapes.
+
 1. Splash Screen:
 The splash screen is displayed at the beginning of the application.
 It uses Tkinter for GUI elements and includes two buttons for users to choose between two options.
@@ -71,7 +72,9 @@ The code demonstrates the use of Tkinter for GUI development, Matplotlib for plo
 
 
 <h2 align="left"> <img src="https://github.com/urfavcrow23/QuizApp/blob/main/Images/dc6but6-a03d853d-502b-47e1-913f-55738c886211.gif?raw=true" width="20"> UI Overview </h2>
-<!-- <img src="https://github.com/urfavcrow23/QuizApp/blob/main/Images/mockup.png?raw=true" width="100%"> -->
+<img src="https://github.com/urfavcrow23/ShapeDrawer/blob/main/Project/ASSETS_PATH/Splash%20Screen.png?raw=true" width="100%">
+<img src="https://github.com/urfavcrow23/ShapeDrawer/blob/main/Project/ASSETS_PATH/DDA%20Screen.png?raw=true" width="100%">
+<img src="https://github.com/urfavcrow23/ShapeDrawer/blob/main/Project/ASSETS_PATH/Shapes%20Screen.png?raw=true" width="100%">
 
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
